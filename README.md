@@ -13,10 +13,10 @@ This project creates a comprehensive cybersecurity threat intelligence dashboard
 ## Screenshots
 
 ### Power BI Setup Example
-![Power BI Setup Example](images/Setup1.png)
+![Power BI Setup Example](Setup1.png)
 
 ### Power BI Report Example
-![Power BI Report Example](images/BI_Report.png)
+![Power BI Report Example](BI_Report.png)
 
 ## Prerequisites
 
